@@ -5,11 +5,9 @@ this project aims to optimize operational efficiency and enhance customer experi
 
 
 
-Key Technologies and Tools:
-Apache Airflow (Astro): For orchestrating data pipelines
-Soda: For ensuring data quality
-DBT: For transforming and modeling data
-Python: For generating synthetic data
+## Key Technologies and Tools
 
-
-
+- **Apache Airflow (Astro)**: For orchestrating data pipelines, enabling automated workflows and scheduling.
+- **Soda**: Ensures data quality through testing and monitoring, helping maintain data integrity.
+- **DBT (Data Build Tool)**: Used for transforming and modeling data, building modular, maintainable analytics workflows.
+- **Python**: Utilized for generating synthetic data and performing custom transformations within data pipelines.
